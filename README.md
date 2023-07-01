@@ -14,7 +14,7 @@ Engineering Homer's Soul: A Mathematical Rebirth of the Author
 
 Recipient of the 2023 Departmental Thesis Award in Rhetoric. 
 
-This undergraduate honors thesis was submitted to the Rhetoric Department of UC Berkeley for completion of the departmental Honors program.
+This undergraduate honors thesis was submitted to the Rhetoric Department of UC Berkeley for completion of the departmental Honors program, and subsequently awarded the title of Best Undergraduate Thesis of 2023.
 My work performed a close reading of an authorship analysis study on Homeric texts, examining how mathematical techniques used 
 for statistical language modeling express ideological assumptions about language, embodiment, and authorship in the field of Natural 
 Language Processing. 
