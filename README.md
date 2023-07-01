@@ -7,7 +7,7 @@ Assessing the Impact of Cyclical Noise on Machine Learning Outcomes
 This final project report was submitted for completion of the UC Berkeley course Data 100: Principles and Techniques of Data Science. 
 I worked with two other students (named in the report) to design an original experiment assessing the impact of cyclical noise in 
 COVID-19 testing data when predicting county-level infection rates with linear regression. I was a code co-contributor, and the 
-sole author of the final report. 
+sole author of the final report. The jupyter notebook titled covid19.ipynb contains code from the modeling portion of the project, but not the EDA. 
 
 ### Project 2
 Engineering Homer's Soul: A Mathematical Rebirth of the Author 
